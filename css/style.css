@@ -48,7 +48,9 @@ body {
     display: inline-block;
     width: 45%;
 }
-
+nav{
+    background-color: #9013FE;
+}
 /* BUTTON */
 .btn {
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
