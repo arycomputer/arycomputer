@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
+
 </head>
 <body>
   
@@ -50,8 +51,19 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   <footer>
-    Feito com amor por Nati Izui ♥    
-  </footer>
+
 
 </body>
 </html>
+
+    Feito com amor por Ary Augusto ♥   
+   # ![](https://komarev.com/ghpvc/?username=arycomputer&style=flat-square)
+    [Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?account_id=1849174)
+  </footer>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ https://visitor-badge.glitch.me/badge?page_id=arycomputer.visitor-badge
+
+ ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
