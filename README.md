@@ -11,7 +11,7 @@
   
   <nav class="navbar">
     <div class="navbar__box">
-      <img class="navbar__logo" src="./img/logo.png" alt="logo Mulheres Em Tech">
+      <img class="navbar__logo" src="./img/logo.svg" alt="logo">
       <ul class="navbar__nav">
         <li><a href="#">Sobre</a></li>
         <li><a href="#">Conteúdo</a></li>
