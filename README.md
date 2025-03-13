@@ -149,8 +149,6 @@ Faça uma breve apresentação sobre você e a sua stack.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arycomputer/arycomputer/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
