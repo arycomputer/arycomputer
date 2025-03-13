@@ -1,5 +1,30 @@
-<img src="./img/logo.svg" style = "width:30%" alt="logo">
+![](https://komarev.com/ghpvc/?username=arycomputer&color=006bed)
 
+<img src="./img/logo.svg" style = "width:30%" alt="logo">
+<div style="width: 100%;">
+  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+         <div class="container">
+        <h1>Hi there, my name is Ary 👋</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 ## Contatos:
 
 <div>
@@ -43,9 +68,12 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arycomputer&show_icons=true)
+# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycomputer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycomputer&theme=dark&show_icons=true)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arycomputer&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Visitas
-![](https://komarev.com/ghpvc/?username=arycomputer&base=1000)
+# ![](https://komarev.com/ghpvc/?username=arycomputer&base=1000)
 
 <picture>
   <source
@@ -61,3 +89,7 @@ Faça uma breve apresentação sobre você e a sua stack.
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=arycomputer.arycomputer&left_color=green&right_color=red)
+    <img src="https://visitor-badge.glitch.me/badge?page_id=arycomputer.arycomputer" alt="visitor badge"/>
+
