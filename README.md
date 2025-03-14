@@ -4,7 +4,7 @@
 
 <img src="./img/logo.svg" style = "width:30%" alt="logo">
 <div style="width: 100%;">
-  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="./img/animated.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 
