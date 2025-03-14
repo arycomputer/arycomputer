@@ -36,10 +36,13 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 ### **Aplicações e dados**
 
-![Alura](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?style=for-the-badge&logo=logo-alura&logoColor=white&label=alura)
+![Alura](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?style=for-the-badge&logo=logo-alura&logoColor=white&label=alura&logoSize=amg)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
 ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=007396)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+
+
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=red)](#)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](#)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
