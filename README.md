@@ -18,7 +18,9 @@
 
 </details>
 
-<div background="red">teste</div>
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=arycomputer&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 <center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arycomputer&repo=arycomputer" />
@@ -63,7 +65,7 @@ Faça uma breve apresentação sobre você e a sua stack.
 ## 🚀 Minhas Skills Stack 💻
 
 **Aplicações e dados**
-
+![Alura](https://custom-icon-badges.demolab.com/badge/Alura-badge-blue.svg-333333?style=flat?logo=logo-alura&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
