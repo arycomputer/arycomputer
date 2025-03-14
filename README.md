@@ -2,12 +2,14 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/arycomputer/count.svg)
 
+![MarineGEO circle logo](./img/logo.svg "logo")
+
+<img src="image.png" width="200" height="100">
+
 <img src="./img/logo.svg" style = "width:30%" alt="logo">
 <div style="width: 100%;">
   <img src="./img/animated.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-
-
 
 <details>
 <summary>My top languages</summary>
@@ -23,35 +25,18 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=arycomputer&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-<center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arycomputer&repo=arycomputer" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arycomputer&repo=arycomputer" />
-</a>
-</center>
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-         <div class="container">
-        <h1>Hi there, my name is Ary 👋</h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=arycomputer&repo=arycomputer)](https://github.com/anuraghazra/github-readme-stats)[![](https://github-readme-stats.vercel.app/api/pin/?username=arycomputer&repo=arycomputer)](https://github.com/anuraghazra/convoychat)
+
 ## Contatos:
 
-<div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/seu-canal-youtube-aqui)
+[![](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuário-instagram-aqui) 
+[![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/seu-usuário-aqui) 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@seu-usuário-aqui) 
+[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuário-linkedln-aqui)
 
 ![](https://komarev.com/ghpvc/?username=arycomputer&abbreviated=true&style=for-the-badge)
-    Feito com amor por Ary Augusto ♥   
+    Feito com amor por Ary Augusto   
 ![](https://komarev.com/ghpvc/?username=arycomputer&style=flat-square)
 
 ## 💜 Olá, meu nome é Ariovaldo Augusto!
@@ -67,7 +52,7 @@ Faça uma breve apresentação sobre você e a sua stack.
 ## 🚀 Minhas Skills Stack 💻
 
 **Aplicações e dados**
-![Alura](https://custom-icon-badges.demolab.com/badge/Alura-badge-blue.svg-333333?style=flat?logo=logo-alura&logoColor=white)
+![Alura](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg-333333?style=flat?logo=logo-alura&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -141,7 +126,7 @@ Faça uma breve apresentação sobre você e a sua stack.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arycomputer.arycomputer&left_color=green&right_color=red)
     <img src="https://visitor-badge.glitch.me/badge?page_id=arycomputer.arycomputer" alt="visitor badge"/>
 
-    <div style="width: 100%;">
+<div style="width: 100%;">
   <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
@@ -161,17 +146,6 @@ Faça uma breve apresentação sobre você e a sua stack.
 <a href="https://dev.to/solutionsarray">🌐&nbsp;</a><a href="https://dev.to/solutionsarray"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
 </p>
 
-<!--<p align="center">
-<a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-00759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="">
-<a href="https://woo.com/"><img src="https://img.shields.io/badge/WooCommerce-8150b2?style=for-the-badge&logo=woocommerce&logoColor=white" alt="">
-<a href="https://www.elegantthemes.com/gallery/divi/"><img src="https://img.shields.io/badge/Divi Builder-5b00a5?style=for-the-badge&logo=wordpress&logoColor=white" alt="">
-<a href="https://elementor.com/"><img src="https://img.shields.io/badge/Elementor-920039?style=for-the-badge&logo=wordpress&logoColor=white" alt="">
-<a href="https://www.advancedcustomfields.com/"><img src="https://img.shields.io/badge/ACF Plugin-03e5be?style=for-the-badge&logo=wordpress&logoColor=white" alt="">
-<p align="center">
-<a href="https://www.django-cms.org/en/"><img src="https://img.shields.io/badge/Django CMS-092E20?style=for-the-badge&logo=django&logoColor=green" alt="">
-<a href="https://wagtail.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Wagtail CMS&color=43B1B0&logo=Wagtail&logoColor=FFFFFF&label=" alt="">
-</p>-->
-
 <hr />
 <h3 align="center">Personal | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44" height="44" alt="bookmark"></h3>
 <br>
@@ -181,31 +155,6 @@ Faça uma breve apresentação sobre você e a sua stack.
 <p align="center">
 | &nbsp;<a href="https://github.com/solutionsarray/solutionsarray.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray.github.io"> <b>Pedro Carvalho - Complete Profile</b></a>&nbsp;&nbsp;|&nbsp;
 <a href="https://github.com/solutionsarray/Pedro-Carvalho"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/Pedro-Carvalho"> <b>Pedro Carvalho - HTML/CSS Resume</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-
-<p align="center">
-| &nbsp;<a href="https://github.com/solutionsarray/project1"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/project1"> <b>Application</b></a>&nbsp;&nbsp;|&nbsp;
-<a href="https://github.com/solutionsarray/repo"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/repo"> <b>Files Repo</b></a>&nbsp;&nbsp;|&nbsp;
-<a href="https://github.com/solutionsarray/pun"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/pun"> <b>Pun</b></a>&nbsp;&nbsp;|&nbsp;
-
-
-<!--<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> <b>1</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/SolutionsArray/html.git"> <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> <b>2</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/SolutionsArray/css.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/css.git"> <b>3</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"> <b>4</b></a><p>
-<p align="center">| <a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> <b>5</b></a> &nbsp;|&nbsp;</p>-->
-
-
-<hr />
-<h3 align="center">Contributor | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44" height="44" alt="bookmark"></h3>
-<br>
-<p align="center">| &nbsp;<a href="https://github.com/solutionsarray/wordpress-develop"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/wordpress-develop"> <b>wordpress-develop</b></a> &nbsp;|&nbsp; <!--<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> <b>learn-you-php</b></a> &nbsp;|&nbsp; 
-<a href="https://github.com/SolutionsArray/html.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/hhttps://github.com/solutionsarray/wordpress-develop</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/SolutionsArray/css.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/cshttps://github.com/solutionsarray/wordpress-develop</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"> <b>beginners-intro-javascript-node</b></a> &nbsp;|&nbsp;<p>-->
-
-<!--<p align="center">| &nbsp;<a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> skills-change-commit-history</a> &nbsp;|&nbsp;
-&nbsp;<a href="https://github.com/SolutionsArray/-.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/-.git"> Hyphen -</a> &nbsp;|&nbsp;
-<p>-->
 
 
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=arycomputer&hide=B,B%2B&hide_contributor_rank=false&limit=5&order_by=contributions)
