@@ -60,7 +60,7 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 Minhas Skills Stack 💻
 
 **Aplicações e dados**
 
@@ -155,18 +155,6 @@ Faça uma breve apresentação sobre você e a sua stack.
 <a href="https://www.youtube.com/@SolutionsArray">🌐&nbsp;</a><a href="https://www.youtube.com/@SolutionsArray"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"></a>
 <a href="https://codepen.io/solutionsarray">🌐&nbsp;</a><a href="https://codepen.io/solutionsarray"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"></a>
 <a href="https://dev.to/solutionsarray">🌐&nbsp;</a><a href="https://dev.to/solutionsarray"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
-</p>
-
-<hr />
-<h3 align="center"><font size="25">Stack 💻</font></h3>
-<br>
-<p align="center">
-<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="gnu bash"></a>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"></a>
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white" alt="php"></a>
-<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></a>
-<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/-javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black" alt="js"></a>
 </p>
 
 <!--<p align="center">
