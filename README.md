@@ -1,11 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=arycomputer&color=006bed)
 
-![](https://img.shields.io/static/v1?label=visitors&message=1234567890&color=007ec6&style=flat-square)
+![Visitor Count](https://profile-counter.glitch.me/arycomputer/count.svg)
 
 <img src="./img/logo.svg" style = "width:30%" alt="logo">
 <div style="width: 100%;">
   <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
 </div>
+
+
 
 <details>
 <summary>My top languages</summary>
