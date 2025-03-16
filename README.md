@@ -57,20 +57,19 @@ Faça uma breve apresentação sobre você e a sua stack.
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@seu-usuário-aqui) 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ariovaldo-augusto)
-![](https://komarev.com/ghpvc/?username=arycomputer&abbreviated=true&style=for-the-badge)  
 
 ---
 
 ## ⭐ GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycomputer&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arycomputer&layout=donut-vertical)
-![](https://github-readme-stats.vercel.app/api/pin/?username=arycomputer&repo=arycomputer)
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arycomputer&layout=donut-vertical)
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycomputer&show_icons=true)
+<!--
+![](https://github-readme-stats.vercel.app/api/pin/?username=arycomputer&repo=arycomputer)-->
 
 ## Visitas
-# ![](https://komarev.com/ghpvc/?username=arycomputer&base=1000)
-![](https://komarev.com/ghpvc/?username=arycomputer&color=006bed)
-![Visitor Count](https://profile-counter.glitch.me/arycomputer/count.svg)
+![](https://komarev.com/ghpvc/?username=arycomputer&abbreviated=true&style=for-the-badge&label=Visitas&color=006bed)  
+<!-- ![](https://komarev.com/ghpvc/?username=arycomputer&base=1000)
+![Visitor Count](https://profile-counter.glitch.me/arycomputer/count.svg)-->
 
 <picture>
   <source
@@ -86,10 +85,3 @@ Faça uma breve apresentação sobre você e a sua stack.
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=arycomputer.arycomputer&left_color=green&right_color=red)
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=arycomputer.arycomputer" alt="visitor badge"/>
-
-![Taehyun's GitHub Repository Contribution stats]
-(https://github-contributor-stats.vercel.app/api?username=arycomputer&hide=B,B%2B&hide_contributor_rank=false&limit=5&order_by=contributions)
