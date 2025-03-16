@@ -4,11 +4,12 @@
 
 ## Olá, meu nome é Ariovaldo Augusto!
 
-
-
+Focado em tecnologia, do hardware ao software.
+Sempre em busca de novos conhecimentos em áreas de programação.
+<!
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.-->
 
 ---
 
