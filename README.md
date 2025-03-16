@@ -4,7 +4,7 @@
 
 ## Olá, meu nome é Ariovaldo Augusto!
 
-Faça uma breve apresentação sobre você e a sua stack.
+
 
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
@@ -43,7 +43,7 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
@@ -53,9 +53,10 @@ Faça uma breve apresentação sobre você e a sua stack.
 ## Onde me encontrar
 <!--
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)-->
-[![Gmail Badge](https://img.shields.io/badge/-arycomputer@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arycomputer@hotmail.com)](mailto:arycomputer@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@seu-usuário-aqui) 
+[![Gmail Badge](https://img.shields.io/badge/-arycomputer@hotmail.com-006bed?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:arycomputer@hotmail.com)](mailto:arycomputer@hotmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/arycomputer/)
+<!--
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@seu-usuário-aqui) -->
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ariovaldo-augusto)
 
 ---
