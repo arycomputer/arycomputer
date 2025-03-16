@@ -15,8 +15,8 @@ Faça uma breve apresentação sobre você e a sua stack.
 ## 🚀 Minhas Skills Stack 💻
 
 ### **Aplicações e dados**
-
-[![Alura](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?style=for-the-badge&logo=logo-alura&logoColor=white&label=alura&logoSize=amg)](https://www.alura.com.br/)
+<!--
+[![Alura](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?style=for-the-badge&logo=logo-alura&logoColor=white&label=alura&logoSize=amg)](https://www.alura.com.br/)-->
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=red)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](#)
@@ -51,14 +51,11 @@ Faça uma breve apresentação sobre você e a sua stack.
 <br/>
 
 ## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+<!--
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)-->
+[![Gmail Badge](https://img.shields.io/badge/-arycomputer@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arycomputer@hotmail.com)](mailto:arycomputer@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
-
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@seu-usuário-aqui) 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](#)
-[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuário-linkedln-aqui)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](#)
 ![](https://komarev.com/ghpvc/?username=arycomputer&abbreviated=true&style=for-the-badge)  
 
