@@ -41,7 +41,6 @@ Faça uma breve apresentação sobre você e a sua stack.
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=for-the-badge&logo=travis)
 
 **Ferramentas de desenvolvimento**
 
@@ -49,7 +48,6 @@ Faça uma breve apresentação sobre você e a sua stack.
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=for-the-badge&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
