@@ -53,6 +53,7 @@
 ## Onde me encontrar
 <!--
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)-->
+
 [![Gmail Badge](https://img.shields.io/badge/-arycomputer@hotmail.com-006bed?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:arycomputer@hotmail.com)](mailto:arycomputer@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/arycomputer/)
 <!--
