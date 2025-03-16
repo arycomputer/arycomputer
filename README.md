@@ -40,7 +40,6 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=for-the-badge&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=for-the-badge&logo=travis)
 
