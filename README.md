@@ -1,21 +1,6 @@
-![](https://komarev.com/ghpvc/?username=arycomputer&color=006bed)
-
-![Visitor Count](https://profile-counter.glitch.me/arycomputer/count.svg)
-
 <div style="width: 100%; backcolor:red">
   <img src="./img/logo.svg" style = "width:30%" alt="logo">
 </div>
-
-![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=arycomputer&layout=compact&theme=default)
-![](https://github-readme-stats.vercel.app/api/pin/?username=arycomputer&repo=arycomputer)
-![](https://github-readme-stats.vercel.app/api/pin/?username=arycomputer&repo=arycomputer)
-
-## Contatos:
-
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@seu-usuário-aqui) 
-[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuário-linkedln-aqui)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](#)
-![](https://komarev.com/ghpvc/?username=arycomputer&abbreviated=true&style=for-the-badge) by Ary Augusto   
 
 ## Olá, meu nome é Ariovaldo Augusto!
 
@@ -42,7 +27,6 @@ Faça uma breve apresentação sobre você e a sua stack.
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](#)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=Flutter)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)](#)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](#)
 [[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)](#)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)](#)
@@ -72,26 +56,30 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 <br/>
 
-<a href="https://github.com/arycomputer" title="Perfil do Ary">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arycomputer&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@seu-usuário-aqui) 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](#)
+[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuário-linkedln-aqui)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](#)
+![](https://komarev.com/ghpvc/?username=arycomputer&abbreviated=true&style=for-the-badge)  
+
 ---
 
 ## ⭐ GitHub Stats
 
-# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycomputer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycomputer&theme=dark&show_icons=true)
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arycomputer&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arycomputer&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arycomputer&layout=donut-vertical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=arycomputer&repo=arycomputer)
 
 ## Visitas
 # ![](https://komarev.com/ghpvc/?username=arycomputer&base=1000)
+![](https://komarev.com/ghpvc/?username=arycomputer&color=006bed)
+![Visitor Count](https://profile-counter.glitch.me/arycomputer/count.svg)
 
 <picture>
   <source
