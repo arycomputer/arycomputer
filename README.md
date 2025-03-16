@@ -56,7 +56,7 @@ Faça uma breve apresentação sobre você e a sua stack.
 [![Gmail Badge](https://img.shields.io/badge/-arycomputer@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arycomputer@hotmail.com)](mailto:arycomputer@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@seu-usuário-aqui) 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ariovaldo-augusto)
 ![](https://komarev.com/ghpvc/?username=arycomputer&abbreviated=true&style=for-the-badge)  
 
 ---
